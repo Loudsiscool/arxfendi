@@ -1,0 +1,15 @@
+{
+    "Name": "Fendi ARX MACRO",
+    "Description": "Join the discord server in overview for support",
+    "Author": "Loudsiscool",
+    "Version": "1.0",
+    "Image": "https://i.ibb.co/WWGcqgwK/fendilogo1.png",
+    "Tags": {
+        "Type": "AHK",
+        "Resolution": "1920x1080"
+    },
+    "Main": "ARX.ahk",
+    "MangoID": "Mango-5261fb",
+    "bigthumbnail": "https://i.ibb.co/Myx2cNr2/banner-fendi-2.png",
+    "Game": "AnimeRangerX"
+}
